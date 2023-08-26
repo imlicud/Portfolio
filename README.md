@@ -1,2 +1,2 @@
 # Portfolio
-Codes porfolio for AI and ML
+Codes porfolio for Data Science, Analytics, AI and ML.
